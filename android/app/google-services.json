@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808052305147",
+    "project_id": "sizzle-c657c",
+    "storage_bucket": "sizzle-c657c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808052305147:android:21dc6ce545e09b184a545e",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V6jxbb8luq0p40D-F536xAzhBbQlr0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
